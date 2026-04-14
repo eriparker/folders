@@ -8,5 +8,35 @@
     "title": "netflix",
     "videoURL": "https://github.com/eriparker/folders/raw/refs/heads/main/netflix.mp4",
     "logoURL": "https://raw.githubusercontent.com/eriparker/folders/refs/heads/main/netflix_logo.png"
+  },
+  {
+    "title": "primevideo",
+    "videoURL": "https://github.com/eriparker/folders/raw/refs/heads/main/amazonprime.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/folders/refs/heads/main/amazon_prime_logo.png"
+  },
+  {
+    "title": "disney",
+    "videoURL": "https://github.com/eriparker/folders/raw/refs/heads/main/disneyplus.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/folders/refs/heads/main/disney_plus_logo.png"
+  },
+  {
+    "title": "hbo",
+    "videoURL": "https://github.com/eriparker/folders/raw/refs/heads/main/hbomax.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/folders/refs/heads/main/hbo_max_logo.png"
+  },
+  {
+    "title": "hulu",
+    "videoURL": "https://github.com/eriparker/folders/raw/refs/heads/main/hulu.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/folders/refs/heads/main/hulu_logo.png"
+  },
+  {
+    "title": "paramount",
+    "videoURL": "https://github.com/eriparker/folders/raw/refs/heads/main/paramount.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/folders/refs/heads/main/paramount_plus.png"
+  },
+  {
+    "title": "crunchyroll",
+    "videoURL": "https://github.com/eriparker/folders/raw/refs/heads/main/crunchyroll.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/folders/refs/heads/main/crunchyroll_logo.png"
   }
 ]
