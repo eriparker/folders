@@ -1,0 +1,12 @@
+[
+  {
+    "title": "appletv",
+    "videoURL": "https://github.com/eriparker/folders/raw/refs/heads/main/appletv.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/folders/refs/heads/main/apple_tv_logo.png"
+  },
+  {
+    "title": "netflix",
+    "videoURL": "https://github.com/eriparker/folders/raw/refs/heads/main/netflix.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/folders/refs/heads/main/netflix_logo.png"
+  }
+]
